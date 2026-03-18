@@ -1,59 +1,33 @@
-# CoreLift LLC
-
-**Cybersecurity | Technology Consulting | Application Development**
-
-Welcome to the official GitHub organization for **CoreLift LLC**, a technology-first consulting firm dedicated to empowering startups, founders, and businesses with secure, scalable, and modern software solutions.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CoreLift-LLC/.github/main/assets/logo.png" alt="CoreLift LLC" width="500">
+</p>
 
 ---
 
-## 🚀 About Us
+## What We Do
 
-At CoreLift, we help early-stage companies and growing enterprises:
-- **Launch smarter** with strategic guidance, MVP planning, and agile development
-- **Build stronger** with secure, well-architected infrastructure and clean code
-- **Operate efficiently** through automation, process standardization, and technical leadership
+**Security Architecture & Engineering** — Threat modeling, secure design reviews, and infrastructure hardening. We integrate security at the foundation, not as an afterthought.
 
-Whether you're building your first app or modernizing your digital stack — we bring clarity, momentum, and deep technical expertise.
+**Secure Product Engineering** — Full-stack development with security built in from day one. Production code, infrastructure, and documentation delivered.
 
----
-
-## 💼 What We Do
-
-- 🔐 **Cybersecurity Advisory** — Threat modeling, cloud security architecture, SOC 2 & NIST alignment
-- 🧠 **Technology Consulting** — System design, architecture reviews, technical strategy
-- 💻 **Application Development** — Full-stack engineering, dev team augmentation, SaaS platforms
-- ⚙️ **Startup Enablement** — MVPs, prototyping, founder support, go-to-market acceleration
+**Offensive Security & Pentesting** — Vulnerability assessments, proof of concepts, and actionable remediation guidance. We break it so attackers can't.
 
 ---
 
-## 📁 Repository Overview
+## How We Work
 
-| Repo | Purpose |
-|------|---------|
-| `corelift-site` | Company website and marketing site |
-| `infra` | Infrastructure as code (IaC), deployment, and automation tooling |
-| `client-projects` | Managed client deliverables (private repos only) |
-| `internal-tools` | CoreLift's internal scripts, utilities, and tooling |
-
-> ℹ️ Some repositories are private and visible only to clients and collaborators with access.
+- Defined engagements with clear scope and timeline
+- Direct access to engineers — no project manager runaround
+- No retainers, no enterprise overhead
+- Free 30-minute scoping call to get started
 
 ---
 
-## 📫 Contact & Inquiries
+## Get In Touch
 
-Interested in working with us?  
-Reach out at: **inquiries@corelift.io**
-
-You can also learn more at [https://corelift.io](https://corelift.io) *(site coming soon)*
+**Email:** inquiries@corelift.io
+**Web:** [corelift.io](https://corelift.io)
 
 ---
 
-## 🔐 Security & Trust
-
-We take security seriously.  
-All repositories follow strict access controls, 2FA requirements, and code review standards.  
-For vulnerability disclosure or responsible reporting, contact: **security@corelift.io**
-
----
-
-© 2025 CoreLift LLC — All rights reserved.
+© 2025 CoreLift LLC
