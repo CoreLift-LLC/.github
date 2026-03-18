@@ -1,8 +1,6 @@
-# [CORELIFT]
-
-### Architect. Build. Break.
-
-Security-first engineering for startups, solo developers, and teams who ship.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CoreLift-LLC/.github/main/assets/logo.png" alt="CoreLift LLC" width="500">
+</p>
 
 ---
 
